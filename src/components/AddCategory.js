@@ -23,7 +23,7 @@ export const AddCategory = ({ setCategories }) => {
         type="text"
         value={inputValue}
         onChange={handleInputChange}
-        placeholder="inserta un texto aquí"
+        placeholder="Insert a text here!"
       />
     </form>
   );
